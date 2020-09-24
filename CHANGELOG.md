@@ -4,6 +4,22 @@
 
 [1]: https://pypi.org/project/google-cloud-talent/#history
 
+## [1.0.0](https://www.github.com/googleapis/python-talent/compare/v0.6.1...v1.0.0) (2020-09-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* move API to python microgenerator (#22)
+
+### Features
+
+* move API to python microgenerator ([#22](https://www.github.com/googleapis/python-talent/issues/22)) ([fb361bb](https://www.github.com/googleapis/python-talent/commit/fb361bbde03edc6ab0d3bc0f83d0af61c4f783d5))
+
+
+### Bug Fixes
+
+* update default retry configs ([#17](https://www.github.com/googleapis/python-talent/issues/17)) ([a0e8ddc](https://www.github.com/googleapis/python-talent/commit/a0e8ddcb5706da9b470f4f5962a7a9cf3bd09f0a))
+
 ### [0.6.1](https://www.github.com/googleapis/python-talent/compare/v0.6.0...v0.6.1) (2020-04-28)
 
 
